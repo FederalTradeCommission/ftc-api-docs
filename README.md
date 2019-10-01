@@ -11,7 +11,8 @@ The current API version is **v0**, indicating that the API is under active devel
 
 Learn more about other FTC developer resources at https://www.ftc.gov/developer. The FTC also lists its API endpoints and public datasets on Data.gov at https://catalog.data.gov/organization/federal-trade-commission.
 
-##Getting Started with the FTC API
+Getting Started with the FTC API
+--------------------------------
 
 Access to the FTC API requires a Data.gov API key, which must be included in each API request. Register for a Data.gov API key using the API Key Signup Form at https://www.ftc.gov/developer.
 
